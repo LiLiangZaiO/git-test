@@ -9,5 +9,7 @@ public class gitTest {
         System.out.println("我是hot-fix，现在测试合并分支");
         System.out.println("w我是master，现在不不不不不不同一行 测试合并冲突");
         System.out.println("我是hot-fix，现在测试合并分支-----中的冲突合并");
+        System.out.println("====================");
+        System.out.println("测试push推送本地库到远程库");
     }
 }
