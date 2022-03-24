@@ -13,5 +13,7 @@ public class gitTest {
         System.out.println("测试push推送本地库到远程库");
         System.out.println("====================");
         System.out.println("测试pull拉取远程库到本地库");
+        System.out.println("====================");
+        System.out.println("测试push  免密登录ssh推送本地库到远程库");
     }
 }
