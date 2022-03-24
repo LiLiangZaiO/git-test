@@ -11,5 +11,7 @@ public class gitTest {
         System.out.println("我是hot-fix，现在测试合并分支-----中的冲突合并");
         System.out.println("====================");
         System.out.println("测试push推送本地库到远程库");
+        System.out.println("====================");
+        System.out.println("测试pull拉取远程库到本地库");
     }
 }
